@@ -52,7 +52,7 @@ body {
 
 @media (max-width: 780px) {
 
-    /* CSS for screens 600px and below */
+    /* CSS for screens 780px and below */
     #container img {
         width: 30%;
     }
