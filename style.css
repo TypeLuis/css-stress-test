@@ -70,3 +70,11 @@ body {
         width: 10%;
     }
 }
+
+
+@media (hover: none) and (pointer: coarse) and (max-width: 780px) {
+    /* When media has the properties of a phone */
+    #container::-webkit-scrollbar {
+        height: 0;
+    }
+}
